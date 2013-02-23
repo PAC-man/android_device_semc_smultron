@@ -1,0 +1,6 @@
+# hardware info
+ro.device.chipset=Qualcomm Snapdragon S2 MSM8255
+ro.device.cpu=1 GHz Scorpion
+ro.device.gpu=Qualcomm Adreno 205
+ro.device.rear_cam=5 MP 2592x1944 pixels - autofocus - LED flash
+ro.device.screen_res=HVGA 320x480 pixels
